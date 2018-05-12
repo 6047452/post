@@ -1,6 +1,6 @@
 # AwesomePOS 
 
-> 这是为老婆作的快餐店管理系统，已经答应老婆作好几年了都没给他作，今天开始要为老婆制作这个系统。
+> 初学vue时曾在网上搜索vue的实战项目源码，不过都不理想，直到遇见jspang老师，通过jspang老师的教学，独立完成了此demo，希望自己对vue能有更深层次的发展。
 
 ## 技术栈
 前端 ：vue2 + webpack + vueRouter + element
